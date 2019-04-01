@@ -1,0 +1,41 @@
+site_name: ZeroFrame Documentation
+repo_name: Godot ZeroFrame Plugin
+
+repo_url: https://github.com/zam-org/godot-zeroframe-plugin
+edit_uri: ../zeroframe-docs/edit/master/docs/en/
+
+extra_css: ['css/custom.css']
+extra_javascript: []
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - codehilite
+  - markdown.extensions.admonition
+  - pymdownx.superfences
+  - pymdownx.details
+
+theme:
+  name: 'material'
+  language: 'en'
+  logo: 'logo/zeronet_logo.png'
+  feature:
+    tabs: false
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+  font: false
+
+plugins:
+  - search:
+      lang: ['en']
+
+nav:
+  - Home: "index.md"
+  - Getting Started: "getting_started.md"
+  - ZeroFrame Godot API Reference: "zeroframe-godot-api-reference.md"
+  - ZeroNet Godot API Reference: "zeronet-godot-api-reference.md"
+  - Zeronet Information:
+    - Introduction: "zeronet/introduction.md"
+    - Terminology: "zeronet/terminology.md"
+    - ZeroNet Providers: "zeronet/zeronet-id-providers.md"

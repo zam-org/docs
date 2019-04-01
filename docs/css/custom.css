@@ -1,0 +1,10 @@
+/* Custom CSS rules for ZeroFrame docs */
+
+/* Modifications to the site logo image */
+
+.md-logo img {
+    width: 32px;
+    height: 32px;
+    margin-top: -2px;
+    margin-right: -20px;
+}
