@@ -10,4 +10,4 @@ Or on a clearnet mirror [here](https://zn.amorgan.xyz/1zfdocgHUsGKyTraGzrhUgsU8H
 ## Don't have ZeroNet installed?
 
 Installation of ZeroNet is a breeze. Simply follow the instructions on [this
-page](https://github.com/HelloZeroNet/ZeroNet#user-content-how-to-join).
+page](https://github.com/HelloZeroNet/ZeroNet#how-to-join).
